@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Jawad",
+    "age": 15,
+    "gender": "Male",
+    "marital_status": null,
+    "address": null,
+    "email": "jawad@gmail.com",
+    "contact_number": "+923016317642",
+    "emergency_contact": null
+  },
+  {
+    "id": 2,
+    "name": "Ali",
+    "age": 51,
+    "gender": "Male",
+    "marital_status": null,
+    "address": null,
+    "email": "ali@gmail.com",
+    "contact_number": "+923046355235",
+    "emergency_contact": "+923156509860"
+  },
+  {
+    "id": 3,
+    "name": "ALI",
+    "age": 25,
+    "gender": "Male",
+    "marital_status": null,
+    "address": null,
+    "email": "ali@gmail.com",
+    "contact_number": "+923016317642",
+    "emergency_contact": null
+  }
+]
